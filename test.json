@@ -1,0 +1,11 @@
+"sites":[
+        { "key": "IK",
+          "name": "IK", 
+          "type": 1,
+          "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+          "categories": [
+                          "伦理片",
+                          "里番动漫",
+                        ]
+        }
+]
